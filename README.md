@@ -1,4 +1,4 @@
-👋 Hi, I'm Muhammad Rehan Farooq, a Software Engineer with over 6 years of hands-on experience in building and delivering scalable applications. My expertise includes Python (Django, FastAPI), React.js, Next.js, as well as LLMs and custom chatbot development.
+👋 Hi, I'm Muhammad Rehan Farooq, a Software Engineer with over 6 years of hands-on experience in building and delivering scalable applications. My expertise includes Python (Django, FastAPI), React.js, Next.js, Agentic AI and multi agent systems.
 
 Throughout my career in the software industry, I've developed deep, hands-on experience with a wide range of tools, programming languages, frameworks, and technologies, including, but not limited to:
 
