@@ -2,10 +2,10 @@
 
 Throughout my career in the software industry, I've developed deep, hands-on experience with a wide range of tools, programming languages, frameworks, and technologies, including, but not limited to:
 
-- 💻 Fullstack: Python, Django, React.js and Next.js
+- 💻 Fullstack: Python, Django, FastAPI, React.js and Next.js
 - 🤖 Backend: Python, Django, FastAPI
 - 🎨 Frontend: Javascript, JQuery, React JS, Next JS, HTML5, CSS3, Bootstrap, Tailwind and Material UI
-- 🤖 AI: LLM Integrations, Custom Chatbot Development, AI Agents, Agentic AI, Agentic RAG (OpenAI, LangChain, RAG etc.)
+- 🤖 AI: LLM Integrations, Custom Chatbot Development, AI Agents, Agentic AI, Agentic RAG and Multi Agent Systems
 
 - ⛓️ API: RESTful API and GraphQL
 - 🔗 Version Control: Git
