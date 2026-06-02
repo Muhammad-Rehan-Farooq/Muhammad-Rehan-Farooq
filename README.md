@@ -8,7 +8,7 @@ I build production-grade AI systems — not demos. From agentic assistants and R
 
 ## 🤖 What I'm Working On
 
-Currently **Tech Lead at Enxsys**, where I architected the entire AI layer of **[Kaizen Teams](https://kaizenteams.ai/)** — a B2B SaaS platform for multi-location operations management.
+Currently **Tech Lead at Enxsys**, where I architected the entire AI layer of **Kaizen Teams** — a B2B SaaS platform for multi-location operations management.
 
 ### 🧠 Kaizen AI — Production AI Microservice (FastAPI)
 
