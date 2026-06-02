@@ -8,15 +8,15 @@ I build production-grade AI systems — not demos. From agentic assistants and R
 
 ## 🤖 What I'm Working On
 
-Currently **Tech Lead at [Enxsys](https://kaizenteams.ai/)**, where I architected the entire AI layer of **Kaizen Teams** — a B2B SaaS platform for multi-location operations management.
+Currently **Tech Lead at Enxsys**, where I architected the entire AI layer of **[Kaizen Teams](https://kaizenteams.ai/)** — a B2B SaaS platform for multi-location operations management.
 
 ### 🧠 Kaizen AI — Production AI Microservice (FastAPI)
 
-- **Agentic Assistant** — LangChain/LangGraph-powered multi-agent system with PostgreSQL checkpointing (`AsyncPostgresSaver`), summarization middleware, and persistent multi-turn memory
-- **RAG Pipeline** — ChromaDB + OpenAI `text-embedding-3-small` embeddings, PDF ingestion, relevance score filtering, source labeling, and manifest-based auto-reindexing
+- **Agentic Assistant** — LangChain/LangGraph-powered multi-agent system with PostgreSQL checkpointing, summarization middleware, and persistent multi-turn memory
+- **RAG Pipeline** — ChromaDB + OpenAI embeddings, PDF ingestion, relevance score filtering, source labeling, and manifest-based auto-reindexing
 - **OpenAPI Agent Tools** — Dynamically generates LangChain tools from OpenAPI specs with user-scoped JWT auth for live data retrieval
 - **Structured-Output Pipelines** — Quiz generation, SOP generation, job profile generation, audit checklist regeneration, and pay-grade ladders — all via Pydantic schemas + LCEL chains
-- **Voice AI Assistant** — Deepgram `nova-2` STT + `aura-2-asteria-en` TTS over WebSockets, with token streaming, barge-in/interruption handling, proactive event prompts, and TTS phrase caching
+- **Voice AI Assistant** — Deepgram/ElevenLabs STT + TTS over WebSockets, with token streaming, barge-in/interruption handling, proactive event prompts, and TTS phrase caching
 - **Streaming Chat** — Django Channels WebSocket infrastructure with rate limiting, JWT validation per message, partial-response recovery, and concurrent stream control
 - **Prompt Safety** — Injection-aware prompt design, scope-restricted system prompts, output HTML sanitization, and graceful AI failure handling
 
