@@ -1,6 +1,6 @@
 # Hey, I'm Rehan Farooq 👋
 
-**AI Engineer · Backend Engineer · 6+ Years Experience**
+**AI Engineer · Backend Engineer · 7+ Years Experience**
 
 I build production-grade AI systems — not demos. From agentic assistants and RAG pipelines to real-time voice AI, I specialize in turning LLMs into reliable, scalable products.
 
